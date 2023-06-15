@@ -1,0 +1,35 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-image: url("https://cdn.pixabay.com/photo/2018/07/09/08/15/background-3525570_1280.jpg");
+    background-size: cover;
+}
+
+h3{
+    position: absolute;
+    top: 40%;
+    left: 48%;
+    font-size: 30px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+}
+
+#txt {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 170px;
+    height: 30px;  
+    padding: 20px;
+    border: 3px outset darkgrey;
+}
+
+
+
+
+
+
+
+
